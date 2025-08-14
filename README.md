@@ -74,7 +74,11 @@ making projects that feel alive, unique, and meaningful.
       <td width="75%">
         <img src="./banner.gif" alt="Banner" width="100%"/>
       </td>
-    <p align="center">
+    <td width="25%" valign="top" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=F7D746&center=true&vCenter=true&width=300&lines=🌍+Connect+with+Me" />
+  <br/><br/>
+
+ <p align="center">
   <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website-btn.png" width="140"/></a>
   <br><br>
   <a href="https://linkedin.com/in/nursilayusmitha"><img src="assets/linkedin-btn.png" width="140"/></a>
@@ -85,6 +89,9 @@ making projects that feel alive, unique, and meaningful.
   <br><br>
   <a href="mailto:nursilayusmitha@gmail.com"><img src="assets/email-btn.png" width="140"/></a>
 </p>
+
+</td>
+
 
 
 
