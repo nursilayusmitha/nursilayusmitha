@@ -1,47 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=5000&pause=1500&color=5EEAD4&center=true&vCenter=true&width=800&lines=Hi!+I'm+Nursila+Yusmitha;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art+Into+Magic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1500&color=F7D746&center=true&vCenter=true&width=800&lines=Hi!+I'm+Nursila+Yusmitha;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art+Into+Magic" />
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=700&lines=👩‍💻+About+Me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=500&lines=👩‍💻+About+Me" />
 
-I’m **Nursila Yusmitha**, a **Web Developer & Creative Technologist** who thrives at the intersection of  
-technology, design, and imagination. My approach is inspired not only by **retro vibes 🎮**, but also by  
-**anything-inspired aesthetics ✨** — whether playful, minimal, or futuristic.  
+I’m **Nursila Yusmitha**, a **Web Developer & Creative Technologist** passionate about blending creativity and technology.  
+I enjoy crafting digital experiences that combine **retro-inspired aesthetics 🎮** with **modern web technologies ⚡**,  
+making projects that are not only functional but also engaging and inspiring.  
 
-I enjoy turning ideas into **interactive and inspiring digital experiences** through a balance of  
-technical expertise and creative exploration. My passion lies in crafting projects that are **functional,  
-engaging, and meaningful**.  
-
-✨ Skilled in fullstack web development with modern frameworks.  
-✨ Experienced in design and creative media for digital storytelling.  
-✨ Adaptive, collaborative, and always eager to learn new things.  
-✨ Motto: *“Technology should not only function — it should inspire.”*  
+✨ I value clean code, teamwork, and continuous learning.  
+✨ I thrive in solving problems, designing intuitive interfaces, and experimenting with creative approaches.  
+✨ Beyond coding, I also explore design, media, and storytelling as tools to connect people with technology.  
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=700&lines=🛠️+Tech+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=500&lines=🛠️+Tech+Stack" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nodejs,express,php,laravel,dotnet" height="25"/>  
-      <b> Web Development </b>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mysql,postgres,mongodb,git,figma,ai,ps,ae,pr" height="25"/>  
-      <b> UI / Databases / Design & Tools </b>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Web-Laravel%20%7C%20Vue.js%20%7C%20React.js%20%7C%20Next.js%20%7C%20Express.js%20%7C%20PHP%20%7C%20.NET-blue?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/UI-TailwindCSS%20%7C%20Bootstrap-blue?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20MongoDB-blue?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Illustrator%20%7C%20Photoshop%20%7C%20AfterEffects-blue?style=flat-square" /><br/>
+  <img src="https://img.shields.io/badge/Others-Git%20%7C%20Canva%20%7C%20Filmora%20%7C%20Office-blue?style=flat-square" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=📊+GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=1&pause=1000&color=5EEAD4&center=true&vCenter=true&width=500&lines=📊+GitHub+Stats" />
 </p>
 
 <p align="center">
@@ -51,22 +39,24 @@ engaging, and meaningful**.
 
 ---
 
-<table>
-  <tr>
-    <td width="75%">
-      <img src="./banner.gif" alt="Banner" width="100%"/>
-    </td>
-    <td width="25%" valign="top" align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=400&lines=🌍+Connect+with+Me" />
-      <br/><br/>
-      <a href="https://nursila-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><br/><br/>
-      <a href="https://linkedin.com/in/nursilayusmitha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/><br/>
-      <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br/><br/>
-      <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><br/><br/>
-      <a href="mailto:nursilayusmitha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td width="66%">
+        <img src="./banner.gif" alt="Banner" width="100%"/>
+      </td>
+      <td width="34%" valign="top" align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=1&pause=1000&color=5EEAD4&center=false&vCenter=true&width=500&lines=🌍+Connect+with+Me" />
+        <br/><br/>
+        <a href="https://nursila-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><br/><br/>
+        <a href="https://linkedin.com/in/nursilayusmitha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/><br/>
+        <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><br/><br/>
+        <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><br/><br/>
+        <a href="mailto:nursilayusmitha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
