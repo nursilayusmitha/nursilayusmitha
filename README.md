@@ -75,7 +75,7 @@ making projects that feel alive, unique, and meaningful.
         <img src="assets/banner.gif" alt="Banner" width="100%"/>
       </td>
     <td width="25%" valign="top" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=F7D746&center=true&vCenter=true&width=300&lines=🌍+Connect+with+Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=true&vCenter=true&width=330&lines=Connect+with+Me" />
   <br/><br/>
 
  <p align="center">
@@ -92,12 +92,7 @@ making projects that feel alive, unique, and meaningful.
 
 </td>
 
-
-
-
-
-
-    </tr>
+  </tr>
   </table>
 </p>
 
