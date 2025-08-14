@@ -4,13 +4,13 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=false&vCenter=true&width=500&lines=About+Me+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=5acffa&center=false&vCenter=true&width=500&lines=About+Me+✨" />
 
 Hi, I’m **Nursila Yusmitha** — a **Web Developer & Creative Technologist** passionate about creating digital experiences that blend code, design, and imagination.   
 
 I’m passionate about building projects that don’t just **work**, but also **feel alive** — combining **aesthetics, interactivity, and technology** to create something unique. Whether it’s sleek front-end interfaces, dynamic back-end systems, or creative storytelling through web media, I enjoy exploring how ideas can come to life online.  
 
----
+--
 
 ### 💡 What Drives Me  
 -  Writing **clean, maintainable code** that empowers both developers and users.  
@@ -18,13 +18,13 @@ I’m passionate about building projects that don’t just **work**, but also **
 -  Exploring **creative approaches** that mix design, art, and technology.  
 -  Embracing **teamwork, learning, and knowledge-sharing** as key ingredients for growth.  
 
----
+-
 
 ### 🌱 Beyond Coding  
 I’m deeply inspired by **design, media, and storytelling**.  
 For me, technology is not just a tool, but a **canvas** — a way to connect people, ideas, and creativity across boundaries.  
 
----
+-
 
 ### ⚡ My Mindset  
 I see every project as an opportunity to:  
