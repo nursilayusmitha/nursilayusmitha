@@ -58,9 +58,9 @@ making projects that feel alive, unique, and meaningful.
 ---
 
 <p align="center">
-  <img src="/assets/star.png" height="20" />
+  <img src="/assets/star.png" height="40" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=GitHub+Stats" />
-  <img src="/assets/star.png" height="20" />
+  <img src="/assets/star.png" height="40" />
 </p>
 
 <p align="center">
