@@ -72,22 +72,22 @@ making projects that feel alive, unique, and meaningful.
   <table>
     <tr>
       <td width="75%">
-        <img src="./banner.gif" alt="Banner" width="100%"/>
+        <img src="assets/banner.gif" alt="Banner" width="100%"/>
       </td>
     <td width="25%" valign="top" align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=F7D746&center=true&vCenter=true&width=300&lines=🌍+Connect+with+Me" />
   <br/><br/>
 
  <p align="center">
-  <a href="https://nursila-portfolio.vercel.app/"><img src="./website.png" width="140"/></a>
+  <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website.png" width="140"/></a>
   <br><br>
-  <a href="https://linkedin.com/in/nursilayusmitha"><img src="./linkedin.png" width="140"/></a>
+  <a href="https://linkedin.com/in/nursilayusmitha"><img src=".assets/linkedin.png" width="140"/></a>
   <br><br>
-  <a href="https://instagram.com/yourusername"><img src="./instagram.png" width="140"/></a>
+  <a href="https://instagram.com/yourusername"><img src="assets/instagram.png" width="140"/></a>
   <br><br>
-  <a href="https://youtube.com/yourchannel"><img src="./youtube.png" width="140"/></a>
+  <a href="https://youtube.com/yourchannel"><img src="assets/youtube.png" width="140"/></a>
   <br><br>
-  <a href="mailto:nursilayusmitha@gmail.com"><img src="./email.png" width="140"/></a>
+  <a href="mailto:nursilayusmitha@gmail.com"><img src="assets/email.png" width="140"/></a>
 </p>
 
 </td>
