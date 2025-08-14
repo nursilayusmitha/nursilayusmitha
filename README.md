@@ -75,7 +75,7 @@ making projects that feel alive, unique, and meaningful.
         <img src="./banner.gif" alt="Banner" width="100%"/>
       </td>
       <td width="25%" valign="top" align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=2000&lines=🌍+Connect+with+Me" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=100&lines=🌍+Connect+with+Me" />
         <br/><br/>
         <a href="https://nursila-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><br/><br/>
         <a href="https://linkedin.com/in/nursilayusmitha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/><br/>
