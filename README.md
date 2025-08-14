@@ -64,19 +64,9 @@ making projects that feel alive, unique, and meaningful.
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5722&text_color=F5F5F5&icon_color=FFD700" 
-    height="160"
-  />
-
-  <!-- Streak Stats Card -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&hide_border=true&background=0D1117&ring=42A5F5&fire=E4405F&currStreakLabel=FFB400&sideNums=42A5F5&sideLabels=FF5722&dates=9E9E9E" 
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5&hide_border=true" height="160"/>
 </p>
-
 
 ---
 
