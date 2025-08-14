@@ -17,7 +17,11 @@ making projects that feel alive, unique, and meaningful.
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=500&lines=🛠️+Tech+Stack" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=500&lines=Tech+Stack" />
+  <img src="assets/question.png" width="25" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
