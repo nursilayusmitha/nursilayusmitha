@@ -112,7 +112,7 @@ I see every project as an opportunity to:
   <br><br>
   <a href="https://instagram.com/nursilayusmitha"><img src="assets/instagram.png" width="140"/></a>
   <br><br>
-  <a href="https://youtube.com/aelara_id"><img src="assets/youtube.png" width="140"/></a>
+  <a href="https://youtube.com/@aelara_id"><img src="assets/youtube.png" width="140"/></a>
   <br><br>
   <a href="mailto:nursilayusmitha@gmail.com"><img src="assets/email.png" width="140"/></a>
 </p>
