@@ -18,10 +18,7 @@ making projects that feel alive, unique, and meaningful.
 ---
 
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=200&lines=Tech+Stack"/>
-  <img src="assets/question.png" width="30"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=500&lines=Tech+Stack" />
 
 
 
