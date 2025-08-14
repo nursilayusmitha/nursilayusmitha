@@ -79,29 +79,30 @@ making projects that feel alive, unique, and meaningful.
   <br/><br/>
   
   <a href="https://nursila-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&label=" width="160"/>
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelWidth=80" width="140"/>
   </a>
   <br/><br/>
 
   <a href="https://linkedin.com/in/nursilayusmitha">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&label=" width="160"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=80" width="140"/>
   </a>
   <br/><br/>
 
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=" width="160"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=80" width="140"/>
   </a>
   <br/><br/>
 
   <a href="https://youtube.com/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=" width="160"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelWidth=80" width="140"/>
   </a>
   <br/><br/>
 
   <a href="mailto:nursilayusmitha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFB400?style=for-the-badge&logo=gmail&logoColor=white&label=" width="160"/>
+    <img src="https://img.shields.io/badge/Email-FFB400?style=for-the-badge&logo=gmail&logoColor=white&labelWidth=80" width="140"/>
   </a>
 </td>
+
 
     </tr>
   </table>
