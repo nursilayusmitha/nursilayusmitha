@@ -64,9 +64,16 @@ making projects that feel alive, unique, and meaningful.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=f7f746&icon_color=46cef7&text_color=ffffff&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=f7f746&fire=f01616&currStreakLabel=f01616&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=f7f746&icon_color=46cef7&text_color=ffffff&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=f7f746&fire=f01616&currStreakLabel=f01616&dates=46cef7&hide_border=true" 
+    height="160"
+  />
 </p>
+
 
 ---
 
