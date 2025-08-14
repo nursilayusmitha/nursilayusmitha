@@ -59,13 +59,13 @@ making projects that feel alive, unique, and meaningful.
 
 <p align="center">
   <img src="/assets/star.png" height="40" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=f7f746&center=true&vCenter=true&width=400&lines=GitHub+Stats" />
   <img src="/assets/star.png" height="40" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=42A5F5&icon_color=42A5F5&text_color=ffffff&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=42A5F5&fire=42A5F5&currStreakLabel=42A5F5&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=5EEAD4&icon_color=5EEAD4&text_color=ffffff&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&hide_border=true" height="160"/>
 </p>
 
 ---
