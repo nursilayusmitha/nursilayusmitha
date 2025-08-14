@@ -74,40 +74,18 @@ making projects that feel alive, unique, and meaningful.
       <td width="75%">
         <img src="./banner.gif" alt="Banner" width="100%"/>
       </td>
-    <td width="25%" valign="top" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=F7D746&center=true&vCenter=true&width=300&lines=🌍+Connect+with+Me" />
-  <br/><br/>
+    <p align="center">
+  <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website-btn.png" width="140"/></a>
+  <br><br>
+  <a href="https://linkedin.com/in/nursilayusmitha"><img src="assets/linkedin-btn.png" width="140"/></a>
+  <br><br>
+  <a href="https://instagram.com/yourusername"><img src="assets/instagram-btn.png" width="140"/></a>
+  <br><br>
+  <a href="https://youtube.com/yourchannel"><img src="assets/youtube-btn.png" width="140"/></a>
+  <br><br>
+  <a href="mailto:nursilayusmitha@gmail.com"><img src="assets/email-btn.png" width="140"/></a>
+</p>
 
-  <a href="https://nursila-portfolio.vercel.app/">
-    <div style="background:#FF5722; width:140px; height:40px; display:flex; align-items:center; justify-content:center; color:white; font-weight:bold; border-radius:6px; margin:5px auto;">
-      Website
-    </div>
-  </a>
-
-  <a href="https://linkedin.com/in/nursilayusmitha">
-    <div style="background:#0077B5; width:140px; height:40px; display:flex; align-items:center; justify-content:center; color:white; font-weight:bold; border-radius:6px; margin:5px auto;">
-      LinkedIn
-    </div>
-  </a>
-
-  <a href="https://instagram.com/yourusername">
-    <div style="background:#E4405F; width:140px; height:40px; display:flex; align-items:center; justify-content:center; color:white; font-weight:bold; border-radius:6px; margin:5px auto;">
-      Instagram
-    </div>
-  </a>
-
-  <a href="https://youtube.com/yourchannel">
-    <div style="background:#FF0000; width:140px; height:40px; display:flex; align-items:center; justify-content:center; color:white; font-weight:bold; border-radius:6px; margin:5px auto;">
-      YouTube
-    </div>
-  </a>
-
-  <a href="mailto:nursilayusmitha@gmail.com">
-    <div style="background:#FFB400; width:140px; height:40px; display:flex; align-items:center; justify-content:center; color:white; font-weight:bold; border-radius:6px; margin:5px auto;">
-      Email
-    </div>
-  </a>
-</td>
 
 
 
