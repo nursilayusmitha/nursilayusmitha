@@ -81,7 +81,7 @@ making projects that feel alive, unique, and meaningful.
  <p align="center">
   <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website.png" width="140"/></a>
   <br><br>
-  <a href="https://linkedin.com/in/nursilayusmitha"><img src=".assets/linkedin.png" width="140"/></a>
+  <a href="https://linkedin.com/in/nursilayusmitha"><img src="assets/linkedin.png" width="140"/></a>
   <br><br>
   <a href="https://instagram.com/yourusername"><img src="assets/instagram.png" width="140"/></a>
   <br><br>
