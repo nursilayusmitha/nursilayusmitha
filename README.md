@@ -12,7 +12,7 @@ I’m passionate about building projects that don’t just **work**, but also **
 
 ---
 
-# 💡 What Drives Me  
+### 💡 What Drives Me  
 - ✨ Writing **clean, maintainable code** that empowers both developers and users.  
 - ✨ Crafting **intuitive, human-centered interfaces** that make technology more approachable.  
 - ✨ Exploring **creative approaches** that mix design, art, and technology.  
@@ -20,13 +20,13 @@ I’m passionate about building projects that don’t just **work**, but also **
 
 ---
 
-# 🌱 Beyond Coding  
+#### 🌱 Beyond Coding  
 I’m deeply inspired by **design, media, and storytelling**.  
 For me, technology is not just a tool, but a **canvas** — a way to connect people, ideas, and creativity across boundaries.  
 
 ---
 
-# ⚡ My Mindset  
+### ⚡ My Mindset  
 I see every project as an opportunity to:  
 - Innovate 💡  
 - Experiment 🧪  
