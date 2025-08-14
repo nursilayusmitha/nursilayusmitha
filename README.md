@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1500&color=F7D746&center=true&vCenter=true&width=800&lines=Hi!+I'm+Nursila+Yusmitha;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art+Into+Magic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=4000&pause=1500&color=f7f746&center=true&vCenter=true&width=800&lines=Hi!+I'm+Nursila+Yusmitha;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art+Into+Magic" />
 </p>
 
 ---
@@ -12,7 +12,7 @@ I’m passionate about building projects that don’t just **work**, but also **
 
 ---
 
-## 💡 What Drives Me  
+# 💡 What Drives Me  
 - ✨ Writing **clean, maintainable code** that empowers both developers and users.  
 - ✨ Crafting **intuitive, human-centered interfaces** that make technology more approachable.  
 - ✨ Exploring **creative approaches** that mix design, art, and technology.  
@@ -20,13 +20,13 @@ I’m passionate about building projects that don’t just **work**, but also **
 
 ---
 
-## 🌱 Beyond Coding  
+# 🌱 Beyond Coding  
 I’m deeply inspired by **design, media, and storytelling**.  
 For me, technology is not just a tool, but a **canvas** — a way to connect people, ideas, and creativity across boundaries.  
 
 ---
 
-## ⚡ My Mindset  
+# ⚡ My Mindset  
 I see every project as an opportunity to:  
 - Innovate 💡  
 - Experiment 🧪  
