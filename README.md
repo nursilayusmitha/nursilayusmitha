@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F7D746&center=true&vCenter=true&width=600&lines=Hi!+I'm+Nursila+Yusmitha+👋;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=F7D746&center=true&vCenter=true&width=800&lines=Hi!+I'm+Nursila+Yusmitha+👋;Web+Developer+%7C+Creative+Technologist;Blending+Code+%2B+Design+%2B+Art+Into+Magic" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-🎮 *Hey there!* I'm **Nursila Yusmitha**, a **Web Developer & Creative Technologist** who loves mixing  
-retro aesthetics 🎨 with modern web technologies ⚡ to create projects that are both functional and inspiring.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=600&lines=A+Developer+who+codes+with+imagination.;Blending+retro+vibes+%2B+modern+tech.;Turning+ideas+into+playful+experiences.;Always+learning%2C+always+creating." />
+</p>
+
+🎮 Hey there! I’m **Nursila Yusmitha**, a **Web Developer & Creative Technologist** who enjoys  
+mixing **retro aesthetics 🎨** with **cutting-edge web technologies ⚡**,  
+crafting digital experiences that are both functional *and magical*.  
 
 - 🌐 Fullstack Web Development  
 - 🎨 Design & Creative Media  
@@ -19,7 +24,7 @@ retro aesthetics 🎨 with modern web technologies ⚡ to create projects that a
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,php,laravel,dotnet,nodejs,express,tailwind,bootstrap,mysql,postgresql,mongodb,git,figma,ai,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,nodejs,express,php,laravel,dotnet,tailwind,bootstrap,mysql,postgres,mongodb,git,figma,ai,ps,ae,pr" />
 </p>
 
 ---
@@ -33,11 +38,21 @@ retro aesthetics 🎨 with modern web technologies ⚡ to create projects that a
 
 ---
 
+## 🎥 Banner  
+
+<p align="center">
+  <img src="./banner.gif" alt="Banner" width="800"/>
+</p>
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="[https://nursilayusmitha](https://nursila-portfolio.vercel.app/)"><img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=About.me&logoColor=black" /></a>
+  <a href="https://nursila-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
   <a href="https://linkedin.com/in/nursilayusmitha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="mailto:nursilayusmitha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
