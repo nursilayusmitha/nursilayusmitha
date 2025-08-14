@@ -17,16 +17,11 @@ making projects that feel alive, unique, and meaningful.
 
 ---
 
-<table>
-  <tr>
-    <td align="left">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=250&lines=Tech+Stack"/>
-    </td>
-    <td>
-      <img src="assets/question.png" width="20"/>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=200&lines=Tech+Stack"/>
+  <img src="assets/question.png" width="30"/>
+</p>
 
 
 
