@@ -79,15 +79,15 @@ making projects that feel alive, unique, and meaningful.
   <br/><br/>
 
  <p align="center">
-  <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website-btn.png" width="140"/></a>
+  <a href="https://nursila-portfolio.vercel.app/"><img src="./website.png" width="140"/></a>
   <br><br>
-  <a href="https://linkedin.com/in/nursilayusmitha"><img src="assets/linkedin-btn.png" width="140"/></a>
+  <a href="https://linkedin.com/in/nursilayusmitha"><img src="./linkedin.png" width="140"/></a>
   <br><br>
-  <a href="https://instagram.com/yourusername"><img src="assets/instagram-btn.png" width="140"/></a>
+  <a href="https://instagram.com/yourusername"><img src="./instagram.png" width="140"/></a>
   <br><br>
-  <a href="https://youtube.com/yourchannel"><img src="assets/youtube-btn.png" width="140"/></a>
+  <a href="https://youtube.com/yourchannel"><img src="./youtube.png" width="140"/></a>
   <br><br>
-  <a href="mailto:nursilayusmitha@gmail.com"><img src="assets/email-btn.png" width="140"/></a>
+  <a href="mailto:nursilayusmitha@gmail.com"><img src="./email.png" width="140"/></a>
 </p>
 
 </td>
