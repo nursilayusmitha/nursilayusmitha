@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=500&lines=👩‍💻+About+Me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=false&vCenter=true&width=500&lines=About+Me+✨" />
 
 I’m **Nursila Yusmitha**, a **Web Developer & Creative Technologist** passionate about blending creativity with technology.  
 I love building digital experiences that mix **anything-inspired aesthetics 🎨** with **modern web technologies ⚡**,  
@@ -18,7 +18,7 @@ making projects that feel alive, unique, and meaningful.
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=42A5F5&center=false&vCenter=true&width=500&lines=Tech+Stack" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=false&vCenter=true&width=500&lines=Tech+Stack+✨" />
 
 
 
