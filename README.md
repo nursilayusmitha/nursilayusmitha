@@ -4,21 +4,39 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=false&vCenter=true&width=500&lines=About+Me+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=f7f746&center=false&vCenter=true&width=500&lines=About+Me+✨" />
 
-I’m **Nursila Yusmitha**, a **Web Developer & Creative Technologist** passionate about blending creativity with technology.  
-I love building digital experiences that mix **anything-inspired aesthetics 🎨** with **modern web technologies ⚡**,  
-making projects that feel alive, unique, and meaningful.  
+Hi, I’m **Nursila Yusmitha** — a **Web Developer & Creative Technologist** who loves blending code, design, and imagination into meaningful digital experiences.  
 
-✨ I value clean code, teamwork, and continuous learning.  
-✨ I enjoy solving problems, designing intuitive interfaces, and experimenting with creative approaches.  
-✨ Beyond coding, I dive into design, storytelling, and media as tools to connect people and ideas.  
-✨ For me, technology is not just functional—it’s a canvas for creativity, collaboration, and innovation.  
+I’m passionate about building projects that don’t just **work**, but also **feel alive** — combining **aesthetics, interactivity, and technology** to create something unique.  
+Whether it’s sleek front-end interfaces, dynamic back-end systems, or creative storytelling through web media, I enjoy exploring how ideas can come to life online.  
+
+---
+
+### 💡 What Drives Me  
+- ✨ Writing **clean, maintainable code** that empowers both developers and users.  
+- ✨ Crafting **intuitive, human-centered interfaces** that make technology more approachable.  
+- ✨ Exploring **creative approaches** that mix design, art, and technology.  
+- ✨ Embracing **teamwork, learning, and knowledge-sharing** as key ingredients for growth.  
+
+---
+
+### 🌱 Beyond Coding  
+I’m deeply inspired by **design, media, and storytelling**.  
+For me, technology is not just a tool, but a **canvas** — a way to connect people, ideas, and creativity across boundaries.  
+
+---
+
+### ⚡ My Mindset  
+I see every project as an opportunity to:  
+- Innovate 💡  
+- Experiment 🧪  
+- Build something **alive, playful, and meaningful** 🎨⚡ 
 
 ---
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=false&vCenter=true&width=500&lines=Tech+Stack+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=f7f746&center=false&vCenter=true&width=500&lines=Tech+Stack+✨" />
 
 
 
@@ -87,7 +105,6 @@ making projects that feel alive, unique, and meaningful.
         <img src="assets/banner.gif" alt="Banner" width="100%"/>
       </td>
     <td width="25%" valign="top" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=1000&color=46cef7&center=true&vCenter=true&width=300&lines=Connect+with+Me" />
   <br/><br/>
 
  <p align="center">
