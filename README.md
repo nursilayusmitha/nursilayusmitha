@@ -64,10 +64,13 @@ making projects that feel alive, unique, and meaningful.
 </p>
 
 <p align="center">
+  <!-- Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=nursilayusmitha&show_icons=true&theme=radical&title_color=f7f746&icon_color=46cef7&text_color=ffffff&hide_border=true" 
     height="160"
   />
+
+  <!-- Streak Card -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical
     &ring=f7f746
@@ -81,6 +84,7 @@ making projects that feel alive, unique, and meaningful.
     height="160"
   />
 </p>
+
 
 
 
