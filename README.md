@@ -69,7 +69,7 @@ making projects that feel alive, unique, and meaningful.
     height="160"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=f7f746&fire=f01616&currStreakLabel=f01616&currStreakNum=ffffff&sideLabels=f01616&sideNums=ff0aad&dates=46cef7&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nursilayusmitha&theme=radical&ring=f7f746&fire=f01616&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=f01616&dates=46cef7&hide_border=true" 
     height="160"
   />
 </p>
