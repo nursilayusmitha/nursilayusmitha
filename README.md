@@ -106,7 +106,7 @@ I see every project as an opportunity to:
   <br/><br/>
 
  <p align="center">
-  <a href="https://nursila-portfolio.vercel.app/"><img src="assets/website.png" width="140"/></a>
+  <a href="https://aelara.site/"><img src="assets/website.png" width="140"/></a>
   <br><br>
   <a href="https://linkedin.com/in/nursilayusmitha"><img src="assets/linkedin.png" width="140"/></a>
   <br><br>
